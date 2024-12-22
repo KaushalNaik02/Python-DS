@@ -1,0 +1,12 @@
+prefix=g:/KN_Udemy/Python-DS/venvDS/Library
+exec_prefix=g:/KN_Udemy/Python-DS/venvDS/Library
+libdir=g:/KN_Udemy/Python-DS/venvDS/Library/lib
+includedir=g:/KN_Udemy/Python-DS/venvDS/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

@@ -1,0 +1,13 @@
+prefix=G:/KN_Udemy/Python-DS/venvDS/Library
+exec_prefix=G:/KN_Udemy/Python-DS/venvDS/Library
+libdir=G:/KN_Udemy/Python-DS/venvDS/Library/lib
+sharedlibdir=G:/KN_Udemy/Python-DS/venvDS/Library/lib
+includedir=G:/KN_Udemy/Python-DS/venvDS/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
