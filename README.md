@@ -1,6 +1,4 @@
-# Python Data Science
-Working With The Python Basics For Data Science
-# Core Python Concepts
+# Core Python Concepts (For Data Science)
 
 Welcome to the **Core Python Concepts** repository! This repository is a comprehensive resource for learning and mastering fundamental Python concepts, catering to beginners and serving as a reference for professionals.
 
